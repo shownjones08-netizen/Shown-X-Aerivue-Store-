@@ -1,4 +1,4 @@
-# NOBITA X STORE BOT
+# SHOWN X STORE BOT
 
 from __future__ import annotations
 
@@ -48,10 +48,10 @@ from telegram.ext import (
 # ============================================================
 # EASY CONFIGURATION — edit these values directly, no .env needed
 # ============================================================
-APP_NAME = "NobitaXStore Bot"
-BOT_TOKEN = '8998346478:AAE1TLcoYFCai_WUpMat7_TOo0Ti9lTnzdg'  # From @BotFather
-OWNER_USERNAME = "@P7imeNobita"  # Owner handle (for reference)
-OWNER_ID = 7651030474  # Numeric Telegram user ID
+APP_NAME = "ShownXStore Bot"
+BOT_TOKEN = '8614537982:AAFJaOFf9YNLVp_Cm6Xs5GuCgXr9OsBfWIY'  # From @BotFather
+OWNER_USERNAME = "@ShownJones"  # Owner handle (for reference)
+OWNER_ID =  7660357725 # Numeric Telegram user ID
 SQLITE_DB_PATH = "bot.db"  # Local SQLite file beside this script
 BOT_USERNAME = ""  # Optional; auto-detected on startup
 USER_LOG_CHANNEL_ID = 0  # 0 disables user activity logs
