@@ -3357,7 +3357,7 @@ async def handle_support(update: Update, context: ContextTypes.DEFAULT_TYPE) -> 
         footer="We usually reply within a few hours.",
     )
     kb = InlineKeyboardMarkup([
-        [InlineKeyboardButton("💬 Message Support", url=f"https://t.me/p4ime", style="success")],
+        [InlineKeyboardButton("💬 Message Support", url=f"https://t.me/ShownJones", style="success")],
     ])
     await update.effective_message.reply_text(text, parse_mode=ParseMode.HTML, reply_markup=kb)
 
